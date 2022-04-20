@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+#Clarification: This project is a simple reactjs project, to know how it works and others, it is not optimized and the code can be disgusting, a thousand apologies
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
